@@ -1,0 +1,30 @@
+{
+  "packageUUID": "973ce524-a9e3-433f-a9da-128262f24b18",
+  "moduleUUID": "3b56eb17-a835-47c1-8940-c663f1bf1ee6",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.6",
+    "name": "QueryModule11",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {
+      "input1": "2"
+    },
+    "moduleInputs": {
+      "gqawxxwdsk": {
+        "id": "gqawxxwdsk",
+        "label": "input1",
+        "propertyName": "inputs.input1",
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "2"
+      }
+    },
+    "jsonPathKeys": [],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "id": "Page1_QueryModule11",
+  "deleted": false,
+  "gitSyncId": "667d641456e1290614555247_9100bb0d-c91c-4bf2-8a32-d1e041377cba"
+}
